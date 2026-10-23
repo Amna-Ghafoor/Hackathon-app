@@ -30,6 +30,4 @@ The app uses `gemma-4-26b-a4b-it` through the Gemini API. You can change the mod
 
 Ledger entries and settings are stored only in this browser's local storage. There are no accounts, phone numbers, or server-side ledger database. When you ask to parse a note, its text is sent to the server and Gemini API for processing. When you generate reminders, only customers with positive balances are sent for reminder generation. WhatsApp opens with a prepared message so the shopkeeper chooses the contact.
 
-## How the AI is used
 
-The server loads the complete [Udhaar Ledger prompt](prompts/udhaar-ledger.md) at startup and uses it as the system instruction for parsing and reminder requests. The app validates model responses before showing them. Low-confidence entries are never saved without the shopkeeper's review.
