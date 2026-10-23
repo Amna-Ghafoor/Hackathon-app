@@ -13,7 +13,8 @@ The frontend is served by the `@workspace/udhaar-book` React/Vite artifact. AI r
 
 ## Screenshot
 
-_Screenshot placeholder — add a screenshot of the Bolo screen here._
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2386b761-f54d-48b0-8588-98830a3336b7" />
+
 
 ## Powered by Gemma 4
 
