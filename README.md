@@ -14,6 +14,9 @@ The frontend is served by the `@workspace/udhaar-book` React/Vite artifact. AI r
 ## Screenshot
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2386b761-f54d-48b0-8588-98830a3336b7" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/475e2d54-fdb0-4964-89ee-29703c8ed6b8" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/808e7d8b-46c4-4450-81ab-689780d5bfe2" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4d5b2f38-a6db-4729-bcc5-d64d9b1618a2" />
 
 
 ## Powered by Gemma 4
