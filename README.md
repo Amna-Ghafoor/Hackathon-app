@@ -11,6 +11,9 @@ This project runs as a Replit web app with two services:
 
 The frontend is served by the `@workspace/udhaar-book` React/Vite artifact. AI requests run through the existing `@workspace/api-server` service; the API key remains server-side. The shared API service needs Node.js and pnpm as provided by the project.
 
+## Demo
+[Udhaar Book demo video](https://youtu.be/xRuhY1ga7CU)
+
 ## Screenshot
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2386b761-f54d-48b0-8588-98830a3336b7" />
